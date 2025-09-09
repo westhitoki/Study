@@ -1,0 +1,79 @@
+.header{
+    width: 400px;
+    height: 100px;
+    background-color: #FFCE7a;
+    padding-top: 20px;
+    padding-left:120px;
+}
+.header-light{
+    width: 160px;
+    height: 60px;
+    background-color: #ffffff;
+}
+.header-in-left{
+    width: 40px;
+    height: 40px;
+    background-color: #C2FFC8;
+}
+.header-in-center{
+    width: 40px;
+    height: 40px;
+    background-color: #C2FFC8;
+}
+.header-in-light{
+    width: 40px;
+    height: 40px;
+    background-color: #C2FFC8;
+}
+
+.main{
+    width: 400px;
+    height: 250px;
+    display: flex;
+}
+.main-left{
+    width: 150px;
+    height: 250px;
+    background-color: #9DDDF4;
+}
+.main-light{
+    width: 250px;
+    height: 250px;
+    background-color: #C2FFC8;
+}
+.main-light-up{
+    width: 150px;
+    height: 50px;
+    background-color: #ffffff;
+}
+.main-in-light-up{
+    width: 140px;
+    height: 40px;
+    background-color: #FFC2C5;
+}
+.main-light-center{
+    width: 150px;
+    height: 50px;
+    background-color: #ffffff;
+}
+.main-in-light-center{
+    width: 140px;
+    height: 40px;
+    background-color: #FFC2C5;
+}
+.main-light-down{
+    width: 150px;
+    height: 50px;
+    background-color: #ffffff;
+}
+.main-in-light-down{
+    width: 140px;
+    height: 40px;
+    background-color: #FFC2C5;
+}
+
+.footer{
+    width: 400px;
+    height: 100px;
+    background-color: #BEA5FF;
+}
